@@ -17,10 +17,11 @@ target/
 javadoc/
 log/
 classes/
-META-INF/
 
 # Misc.
 .DS_Store
+sampledb/
+derby.log
 
 # externalized configuration file for keys
 exchangeConfiguration.json
