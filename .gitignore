@@ -1,0 +1,26 @@
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+*.ips
+.idea/
+
+# Eclipse
+.settings/
+.metadata/
+.classpath
+.project
+
+# Generated
+target/
+javadoc/
+log/
+classes/
+META-INF/
+
+# Misc.
+.DS_Store
+
+# externalized configuration file for keys
+exchangeConfiguration.json
